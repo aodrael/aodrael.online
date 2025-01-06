@@ -1,0 +1,6 @@
+main: com.welcome234.infgenerator.main
+name: ClassicTerrain
+version: 1.4.1
+api-version: 1.16
+load: startup
+author: Welcome_234
